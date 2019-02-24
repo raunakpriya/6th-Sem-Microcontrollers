@@ -1,3 +1,5 @@
+#include "msp430.h"
+
 ORG 0x3010
 
 DW 0xFFFF
